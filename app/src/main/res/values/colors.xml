@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biru">#2196F3</color>
+    <color name="merahmuda">#FF5722</color>
+    <color name="abugelap">#212121</color>
+    <color name="hijautua">#006400</color>
+    <color name="merahtua">#D32F2F</color>
+    <color name="birutua">#1976D2</color>
+    <color name="gray">#808080</color>
+    <color name="hijaumuda">#32CD32</color>
+    <color name="ungu">#c802fa</color>
+
+</resources>
